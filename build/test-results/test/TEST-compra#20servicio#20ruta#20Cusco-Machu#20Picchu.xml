@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="compra servicio ruta Cusco-Machu Picchu" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-19T05:30:42" hostname="PLST5996" time="75.599">
+  <properties/>
+  <testcase name="El usuario realiza la compra de tiquetes para ruta 3" classname="compra servicio ruta Cusco-Machu Picchu" time="75.599"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 64784
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+oct 19, 2022 12:30:51 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected upstream dialect: W3C
+oct 19, 2022 12:30:51 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find an exact match for CDP version 106, so returning the closest version found: 103
+oct 19, 2022 12:30:51 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFORMACIÓN: Found CDP implementation for version 106 of 103
+]]></system-err>
+</testsuite>
